@@ -1,0 +1,7 @@
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb
