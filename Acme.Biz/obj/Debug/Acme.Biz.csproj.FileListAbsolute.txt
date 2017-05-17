@@ -12,3 +12,10 @@ C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Biz\bin\Debug\A
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Biz\obj\Debug\Acme.Biz.pdb

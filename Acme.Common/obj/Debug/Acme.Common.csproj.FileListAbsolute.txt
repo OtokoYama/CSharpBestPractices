@@ -2,3 +2,8 @@ C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CShar
 C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
 C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
 C:\Users\Rick\Documents\Visual Studio 2017\Projects\CSharpBP-Basics-master\CSharpBP-Basics-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Common\obj\Debug\Acme.Common.pdb

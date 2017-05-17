@@ -18,3 +18,13 @@ C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Tests\Acme.BizTests\
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb

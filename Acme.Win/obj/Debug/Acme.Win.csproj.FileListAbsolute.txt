@@ -11,3 +11,16 @@ C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\A
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
 C:\Users\Rick\Documents\Code\CSharpBP-Basics-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Users\RHYSELL\Documents\ProjectFiles\GitHubRepository\CSharpBestPractices\Acme.Win\obj\Debug\Acme.Win.pdb
